@@ -123,6 +123,10 @@ Dify `VS` JEECG AI
 | ChatGTP       |  √   |
 | Qwq           |  √   |
 | 智库            |  √   |
+| claude        |  √   |
+| vl模型          |  √   |
+| 千帆大模型         |  √   |
+| 通义千问          |  √   |
 | Ollama本地搭建大模型 |  √   |
 | 等等。。          |  √   |
 
